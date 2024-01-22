@@ -52,7 +52,6 @@
 }
 
 .search-bar::placeholder {
-    font-family: Roboto, Arial;
     font-size: 14px;
 }
 
@@ -116,7 +115,6 @@
     right: -5px;
     background-color: red;
     color: white;
-    font-family: Roboto, Arial;
     font-size: 11px;
     padding-left: 6px;
     padding-right: 6px;
